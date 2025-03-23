@@ -1,7 +1,3 @@
-layout: home
-title: Welcome
----
-
 # Welcome
 This is where I'll be uploading files regarding ELE124 assignments.
 
